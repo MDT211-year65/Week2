@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/bin/Debug/net6.0/UnitConverter
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/bin/Debug/net6.0/UnitConverter.deps.json
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/bin/Debug/net6.0/UnitConverter.runtimeconfig.json
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/bin/Debug/net6.0/UnitConverter.dll
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/bin/Debug/net6.0/UnitConverter.pdb
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.AssemblyInfo.cs
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.dll
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/refint/UnitConverter.dll
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.pdb
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/UnitConverter.genruntimeconfig.cache
+/Users/kittinunchobtham/Documents/MDT211/class1/UnitConverter/obj/Debug/net6.0/ref/UnitConverter.dll
